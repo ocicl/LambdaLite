@@ -2,9 +2,8 @@
 
 A functional, relational database in about 250 lines of Common Lisp
 
-|---------+-------------------------------------------|
-| source  | git:https://github.com/Wukix/LambdaLite.git   |
-| commit  | 1dffba3  |
-| systems | LambdaLite |
-|---------+-------------------------------------------|
-
+|---------+---------------------------------------------|
+| source  | git:https://github.com/Wukix/LambdaLite.git |
+| commit  | 1dffba3                                     |
+| systems | lambdalite                                  |
+|---------+---------------------------------------------|
